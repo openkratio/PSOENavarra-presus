@@ -1,0 +1,124 @@
+year,type,orig_cod,orig,categoria_cod,categoria,cuenta_cod,cuenta,concepto,cantidad
+2012,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Equipos informáticos y sofware - Modernización Sede Regional,8000
+2012,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Varios (obra comunidad),2000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Tributos y Contribuciones,3200
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Agua,700
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Electricidad,11000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Teléfono,20000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Comunicaciones (servidor, web, centralita - megafonía)",12000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Reparación, conservación edificios y mobiliario",10000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Comunidad Copropietarios,5000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos informáticos,12000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos oficina,20000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Material de Oficina,6000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Documentación técnica y suscripciones,12000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Correos y envíos,15000
+2012,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Gastos varios e imprevistos,2000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Relaciones públicas CER y GPS,22000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Gastos viajes,24000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,"Reuniones, jornadas, conferencias y cursos",12000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Boletines,12000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Campañas Publicidad ,6000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Otros Gastos,1000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Día de la Rosa,45000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Comités Regionales - CER,3000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Congreso Regional (y Federal) – Conferencia Politica 2013,50000
+2012,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Otros gastos vinculados a actos públicos,3000
+2012,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Boletines,10000
+2012,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinarias,9000
+2012,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinaria Tudela,10200
+2012,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Juventudes Socialistas,3000
+2012,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a fundaciones,Otras fundaciones,1500
+2012,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Asesoría Laboral,6000
+2012,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Estudios sociológicos,25000
+2012,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Trabajos realizados por otras empresas,10000
+2012,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Jurídicos y Contenciosos,1500
+2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Salarios,115000
+2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Colaboradores,6000
+2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,12000
+2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,34000
+2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,5000
+2012,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,10616.65
+2012,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,60671.35
+2012,expenditure-implementation,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Equipos informáticos y sofware - Modernización Sede Regional,3543.92
+2012,expenditure-implementation,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Varios (obra comunidad),44351.32
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Tributos y Contribuciones,3061.54
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Agua,406.68
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Electricidad,14330.33
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Teléfono,22646.1
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Comunicaciones (servidor, web, centralita - megafonía)",1807.62
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Reparación, conservación edificios y mobiliario",10985.59
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Comunidad Copropietarios,3696
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos informáticos,12882.56
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos oficina,20028.45
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Material de Oficina,7607.1
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Documentación técnica y suscripciones,13530.62
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Correos y envíos,17402.58
+2012,expenditure-implementation,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Gastos varios e imprevistos,0
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Relaciones públicas CER y GPS,28421.88
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Gastos viajes,37608.59
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,"Reuniones, jornadas, conferencias y cursos",8890.38
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Boletines,6738.26
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Campañas Publicidad ,1528.3
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Otros Gastos,14
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Día de la Rosa,22941.78
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Comités Regionales - CER,0
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Congreso Regional (y Federal) – Conferencia Politica 2013,81826.34
+2012,expenditure-implementation,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Otros gastos vinculados a actos públicos,0
+2012,expenditure-implementation,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Boletines,758.45
+2012,expenditure-implementation,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinarias,8723.06
+2012,expenditure-implementation,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinaria Tudela,10585
+2012,expenditure-implementation,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Juventudes Socialistas,5370
+2012,expenditure-implementation,1,CER,4,Otros gastos de Administración,5,Subvenciones a fundaciones,Otras fundaciones,50
+2012,expenditure-implementation,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Asesoría Laboral,4229.76
+2012,expenditure-implementation,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Estudios sociológicos,0
+2012,expenditure-implementation,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Trabajos realizados por otras empresas,6350.91
+2012,expenditure-implementation,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Jurídicos y Contenciosos,1707.84
+2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Salarios,190457.13
+2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Colaboradores,15771
+2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,2830.68
+2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,55597.83
+2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,5129.3
+2012,expenditure-implementation,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,373.05
+2012,expenditure-implementation,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,0
+2013,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Equipos informáticos y sofware - Modernización Sede Regional,3000
+2013,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Varios (obra comunidad),4500
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Tributos y Contribuciones,3000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Agua,500
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Electricidad,12000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Teléfono,20000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Comunicaciones (servidor, web, centralita - megafonía)",1500
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,"Reparación, conservación edificios y mobiliario",10000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Comunidad Copropietarios,3700
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos informáticos,13000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Mantenimiento equipos oficina,20000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Material de Oficina,4000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Documentación técnica y suscripciones,12000
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Correos y envíos,11500
+2013,expenditure-budget,2,CER-GPS,2,Adquisición Bienes y Servicios,2,Gastos Corrientes y Ordinarios,Gastos varios e imprevistos,1000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Relaciones públicas CER y GPS,15000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Gastos viajes,25000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,"Reuniones, jornadas, conferencias y cursos",5000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Boletines,4000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Campañas Publicidad ,2500
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,3,Actividad Política Ordinaria,Otros Gastos,100
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Día de la Rosa,23000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Comités Regionales - CER,500
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Congreso Regional (y Federal) – Conferencia Politica 2013,10000
+2013,expenditure-budget,2,CER-GPS,3,Actividades del Partido,4,Actos Públicos y Políticos,Otros gastos vinculados a actos públicos,500
+2013,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Boletines,1000
+2013,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinarias,6000
+2013,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Extraordinaria Tudela,7200
+2013,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a agrupaciones locales,Juventudes Socialistas,2400
+2013,expenditure-budget,1,CER,4,Otros gastos de Administración,5,Subvenciones a fundaciones,Otras fundaciones,0
+2013,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Asesoría Laboral,2200
+2013,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Estudios sociológicos,15000
+2013,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Trabajos realizados por otras empresas,4000
+2013,expenditure-budget,2,CER-GPS,4,Otros gastos de Administración,6,Trabajo con empresas externas,Jurídicos y Contenciosos,1000
+2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Salarios,178000
+2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Colaboradores,14820
+2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,500
+2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,52800
+2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,4200
+2013,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,258.21
+2013,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,103321.79

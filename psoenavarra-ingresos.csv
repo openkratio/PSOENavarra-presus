@@ -1,0 +1,34 @@
+year,type,orig_cod,orig,cuenta_cod,cuenta,destino_cod,destino,detalle,Cantidad
+2012,Income-budget,1,Comunidades Autónomas,1,Aportaciones,1,CER,Aportación cargos públicos (ordinarias),35000
+2012,Income-budget,2,Afiliados,2,Cuotas afiliados,1,CER,Cuotas de los afiliados,25000
+2012,Income-budget,1,Comunidades Autónomas,1,Aportaciones,3,GPS,Grupo Parlamentario,490488
+2012,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención Extraordinaria,50000
+2012,Income-budget,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local Pamplona,12500
+2012,Income-budget,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local,2400
+2012,Income-budget,4,Rendimientos Patrimoniales,4,Intereses por cuentas corrientes,2,CER-GPS,Intereses por cuentas corrientes,3000
+2012,Income-budget,5,Donaciones,5,Donaciones,1,CER,Donaciones,3000
+2012,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Participación Día de la Rosa – Congreso Regional/Federal,15000
+2012,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención por Obra de Sede,0
+2012,Income-budget,6,Entidades Bancarias,6,Créditos,1,CER,Sin créditos desde entidades bancarias,0
+2012,Income-implementation,1,Comunidades Autónomas,1,Aportaciones,1,CER,Aportación cargos públicos (ordinarias),25375
+2012,Income-implementation,2,Afiliados,2,Cuotas afiliados,1,CER,Cuotas de los afiliados,19493
+2012,Income-implementation,1,Comunidades Autónomas,1,Aportaciones,3,GPS,Grupo Parlamentario,490488
+2012,Income-implementation,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención Extraordinaria,0
+2012,Income-implementation,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local Pamplona,14000
+2012,Income-implementation,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local,0
+2012,Income-implementation,4,Rendimientos Patrimoniales,4,Intereses por cuentas corrientes,2,CER-GPS,Intereses por cuentas corrientes,2270.16
+2012,Income-implementation,5,Donaciones,5,Donaciones,1,CER,Donaciones,0
+2012,Income-implementation,1,Comunidades Autónomas,3,Subvenciones,1,CER,Participación Día de la Rosa – Congreso Regional/Federal,17236
+2012,Income-implementation,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención por Obra de Sede,0
+2012,Income-implementation,6,Entidades Bancarias,6,Créditos,1,CER,Sin créditos desde entidades bancarias,0
+2013,Income-budget,1,Comunidades Autónomas,1,Aportaciones,1,CER,Aportación cargos públicos (ordinarias),33000
+2013,Income-budget,2,Afiliados,2,Cuotas afiliados,1,CER,Cuotas de los afiliados,20000
+2013,Income-budget,1,Comunidades Autónomas,1,Aportaciones,3,GPS,Grupo Parlamentario,475752
+2013,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención Extraordinaria,3000
+2013,Income-budget,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local Pamplona,14000
+2013,Income-budget,3,Agrupaciones Locales,1,Aportaciones,1,CER,Varios – Agrupación local,0
+2013,Income-budget,4,Rendimientos Patrimoniales,4,Intereses por cuentas corrientes,2,CER-GPS,Intereses por cuentas corrientes,248
+2013,Income-budget,5,Donaciones,5,Donaciones,1,CER,Donaciones,0
+2013,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Participación Día de la Rosa – Congreso Regional/Federal,15000
+2013,Income-budget,1,Comunidades Autónomas,3,Subvenciones,1,CER,Subvención por Obra de Sede,37000
+2013,Income-budget,6,Entidades Bancarias,6,Créditos,1,CER,Sin créditos desde entidades bancarias,0
