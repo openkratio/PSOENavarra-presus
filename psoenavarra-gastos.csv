@@ -38,7 +38,7 @@ idx,year,type,orig_cod,orig,categoria_cod,categoria,cuenta_cod,cuenta,concepto,c
 37,2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,12000
 38,2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,34000
 39,2012,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,5000
-40,2012,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,10616.65
+40,2012,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Intereses y Amortizaciones,10616.65
 41,2012,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,60671.35
 42,2012,expenditure-implementation,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Equipos informáticos y sofware - Modernización Sede Regional,3543.92
 43,2012,expenditure-implementation,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Varios (obra comunidad),44351.32
@@ -79,7 +79,7 @@ idx,year,type,orig_cod,orig,categoria_cod,categoria,cuenta_cod,cuenta,concepto,c
 78,2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,2830.68
 79,2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,55597.83
 80,2012,expenditure-implementation,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,5129.3
-81,2012,expenditure-implementation,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,373.05
+81,2012,expenditure-implementation,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Intereses y Amortizaciones,373.05
 82,2012,expenditure-implementation,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,0
 83,2013,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Equipos informáticos y sofware - Modernización Sede Regional,3000
 84,2013,expenditure-budget,1,CER,1,Otros gastos de Administración,1,Inversiones – Plan de Modernización,Varios (obra comunidad),4500
@@ -120,5 +120,5 @@ idx,year,type,orig_cod,orig,categoria_cod,categoria,cuenta_cod,cuenta,concepto,c
 119,2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Gastos varios colaboradores,500
 120,2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Seguridad Social,52800
 121,2013,expenditure-budget,2,CER-GPS,5,Gastos de Personal,7,Gastos de Personal,Otros gastos sociales,4200
-122,2013,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Amortizaciones e intereses ,258.21
+122,2013,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Intereses y Amortizaciones,258.21
 123,2013,expenditure-budget,2,CER-GPS,6,Gastos Financieros,8,Amortizaciones e intereses,Déficit ejercicio 2011,103321.79
