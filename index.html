@@ -1,0 +1,275 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>PSOE Navarra Cuentas 2013 | OpenKratio</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+
+ 		<!-- Sankey Diagram JS CSS import -->
+    <script src="http://d3js.org/d3.v2.min.js?2.9.1"></script>
+    <script src="js/sankey.js"></script>
+
+ 		<!-- Sankey Diagram Styles import -->
+    <style>
+      @import url(style.css);
+
+      #sankey {
+        height: 500px;
+      }
+
+      .node rect {
+        cursor: move;
+        fill-opacity: .9;
+        shape-rendering: crispEdges;
+      }
+
+      .node text {
+        pointer-events: none;
+        text-shadow: 0 1px 0 #fff;
+        font-size: 15px;
+      }
+
+      .link {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: .2;
+      }
+
+      .link:hover {
+        stroke-opacity: .5;
+      }
+    </style>
+
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header" class="skel-panels-fixed">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
+							<h1 id="title">Navarra</h1>
+							<span class="byline">Cuentas 2013</span>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#top" id="portfolio-link" class="skel-panels-ignoreHref"><span class="icon icon-th">Ingresos y Gastos</span></a></li>
+								<li><a href="#income" id="portfolio-link" class="skel-panels-ignoreHref"><span class="icon icon-th">Detalle de Ingresos</span></a></li>
+								<li><a href="#expenditures" id="portfolio-link" class="skel-panels-ignoreHref"><span class="icon icon-th">Detalle de Gastos</span></a></li>
+								<li><a href="#map" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-user">Mapa de Retribuciones</span></a></li>
+								<li><a href="#retributions" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-user">Retribuciones por tipo</span></a></li>
+								<li><a href="#about" id="top-link" class="skel-panels-ignoreHref"><span class="icon icon-envelope">Acerca de ...</span></a></li>
+							</ul>
+						</nav>
+						
+				</div>
+				
+				<div class="bottom">
+
+					<!-- Social Icons -->
+					  <div align="left" style="margin: 20px">Un proyecto <a href="http://openkratio.org">OpenKratio</a></div>
+						<ul class="icons">
+							<li><a href="http://twitter.com/openkratio" target="_blank" class="icon icon-twitter"><span>Twitter</span></a></li>
+							<li><a href="https://github.com/fontanon/PSOENavarra-presus" target="_blank" class="icon icon-github"><span>Github</span></a></li>
+							<li><a href="http://openkratio.org" target="_blank" class="icon icon-dribbble"><span>Dribbble</span></a></li>
+							<li><a href="mailto:openkratio@gmail.com" target="_blank" class="icon icon-envelope"><span>Email</span></a></li>
+						</ul>
+				
+				</div>
+			
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+			
+				<!-- Sankey -->
+					<section id="top" class="two">
+						<div class="container">
+							<header>
+  								<h2 class="alt">Distribución de <strong>Ingresos</strong> a <strong>Gastos</strong><br />
+							    <p id="sankey">
+							</header>
+						</div>
+					</section>
+
+				<!-- OpenSpending Income -->
+					<section id="income" class="two">
+						<div class="container">
+							<h2 class="alt">Detalle de los <strong>Ingresos</strong><br />
+							
+              <iframe width='100%' height='400' src='http://openspending.org/psoen-income/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22to%22%5D%2C%22year%22%3A2013%2C%22cuts%22%3A%7B%22type%22%3A%22Income-budget%22%7D%7D&width=700&height=400' frameborder='0'></iframe>
+              
+              <a href="http://openspending.org/psoen-income" target="_blank" style="font-size: 24px" class="button scrolly">Explorar más ... </a>
+            </div>
+          </section>
+
+				<!-- OpenSpending Spending -->
+					<section id="expenditures" class="two">
+						<div class="container">
+							<h2 class="alt">Detalle de los <strong>Gastos</strong><br />
+							
+              <iframe width='100%' height='400' src='http://openspending.org/psoen-spending/embed?widget=treemap&state=%7B%22drilldowns%22%3A%5B%22category%22%5D%2C%22year%22%3A2013%2C%22cuts%22%3A%7B%22type%22%3A%22expenditure-budget%22%7D%7D&width=700&height=400' frameborder='0'></iframe>
+              
+              <a href="http://openspending.org/psoen-spending" target="_blank" style="font-size: 24px" class="button scrolly">Explorar más ... </a>
+              
+            </div>
+          </section>
+
+				<!-- Map retributions -->
+					<section id="map" class="three">
+						<div class="container">
+							<h2 class="alt">Declaracion de <strong>Bienes y Retribuciones</strong> de cada Persona<br />
+							
+              <iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4+from+1hB7SjsnTIsTGHzgmnibMjSB_Qf3iRexJ_Ch7BgQ&amp;viz=MAP&amp;h=false&amp;lat=41.84047625664309&amp;lng=-2.136709652575746&amp;t=1&amp;z=7&amp;l=col4&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+              <a href="https://www.google.com/fusiontables/data?docid=1hB7SjsnTIsTGHzgmnibMjSB_Qf3iRexJ_Ch7BgQ#map:id=3" target="_blank" style="font-size: 24px" class="button scrolly">Explorar más ... </a>
+
+            </div>
+          </section>
+
+				<!-- Aggregated Retributions -->
+					<section id="retributions" class="three">
+						<div class="container">
+							<h2 class="alt"><strong>Declaracion de <strong>Bienes y Retribuciones</strong> por Institución<br />
+
+              <iframe width="900" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?containerId=gviz_canvas&amp;q=select+col7%2C+SUM(col11)%2C+SUM(col14)%2C+SUM(col23)%2C+SUM(col27)%2C+SUM(col31)%2C+SUM(col35)+from+1hB7SjsnTIsTGHzgmnibMjSB_Qf3iRexJ_Ch7BgQ+group+by+col7+order+by+SUM(col11)+desc+limit+100&amp;viz=GVIZ&amp;t=COLUMN&amp;uiversion=2&amp;gco_forceIFrame=true&amp;gco_hasLabelsColumn=true&amp;gco_vAxes=%5B%7B%22title%22%3Anull%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3Anull%2C+%22logScale%22%3Afalse%2C+%22viewWindowMode%22%3Anull%7D%2C%7B%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22logScale%22%3Afalse%7D%5D&amp;gco_useFirstColumnAsDomain=true&amp;gco_isStacked=true&amp;gco_booleanRole=certainty&amp;gco_hAxis=%7B%22useFormatFromData%22%3Afalse%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%2C+%22logScale%22%3Afalse%2C+%22formatOptions%22%3A%7B%22scaleFactor%22%3A%220.01%22%2C+%22source%22%3A%22inline%22%7D%2C+%22format%22%3A%220.%23%23%22%7D&amp;gco_legend=right&amp;width=900&amp;height=400"></iframe>
+              
+              <a href="https://www.google.com/fusiontables/data?docid=1hB7SjsnTIsTGHzgmnibMjSB_Qf3iRexJ_Ch7BgQ#map:id=9" target="_blank" style="font-size: 24px" class="button scrolly">Explorar más ... </a>
+              
+            </div>
+          </section>
+
+				<!-- About Me -->
+					<section id="about" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Acerca de esta iniciativa</h2>
+							</header>
+							<p>Proyecto de visualización de datos a partir de los <a href="http://www.psn-psoe.org/datos-abiertos/" target="_blank"> datos abiertos publicados por PSOE Navarra</a>.<br />
+							Datos en CSV desde la <a href="https://github.com/fontanon/PSOENavarra-presus/" target="_blank">forja del proyecto en GitHub</a>.</p>
+
+							<a href="http://www.psn-psoe.org/datos-abiertos/" class="image featured"><img src="images/psoen-web.png" alt="" /></a>
+							<p></p>
+							
+						</div>
+					</section>
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				
+				<!-- Copyright -->
+					<div class="copyright">
+						<p>2013 <a href="http://fontanon.org">J. Félix Ontañón</a>  (<a href="http://openkratio.org">OpenKratio</a>)</p>
+						<ul class="menu">
+              <li>Datos originales: <a href="http://www.psn-psoe.org/datos-abiertos/">PSOE-Navarra</a></li>
+              <li>Datos CSV: <a href="https://github.com/fontanon/PSOENavarra-presus/">PSOE-Navarra en GitHub</a></li>
+							<li>Diseño: <a href="http://html5up.net">HTML5 UP Template</a></li>
+						</ul>
+					</div>
+			</div>
+
+  <script>
+  var margin = {top: 1, right: 1, bottom: 6, left: 1},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+  var formatNumber = d3.format(",.0f"),
+      format = function(d) { return formatNumber(d) + " Euros"; },
+      color = d3.scale.category20();
+
+  var svg = d3.select("#sankey").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var sankey = d3.sankey()
+      .nodeWidth(15)
+      .nodePadding(10)
+      .size([width, height]);
+
+  var path = sankey.link();
+
+  d3.json("psoen.json", function(energy) {
+
+    sankey
+        .nodes(energy.nodes)
+        .links(energy.links)
+        .layout(32);
+
+    var link = svg.append("g").selectAll(".link")
+        .data(energy.links)
+      .enter().append("path")
+        .attr("class", "link")
+        .attr("d", path)
+        .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+        .sort(function(a, b) { return b.dy - a.dy; });
+
+    link.append("title")
+        .text(function(d) { return d.source.name + " -> " + d.target.name + "\n" + format(d.value); });
+
+    var node = svg.append("g").selectAll(".node")
+        .data(energy.nodes)
+      .enter().append("g")
+        .attr("class", "node")
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .call(d3.behavior.drag()
+        .origin(function(d) { return d; })
+        .on("dragstart", function() { this.parentNode.appendChild(this); })
+        .on("drag", dragmove));
+
+    node.append("rect")
+        .attr("height", function(d) { return d.dy; })
+        .attr("width", sankey.nodeWidth())
+        .style("fill", function(d) { return d.color = color(d.name.replace(/ .*/, "")); })
+        .style("stroke", function(d) { return d3.rgb(d.color).darker(2); })
+      .append("title")
+        .text(function(d) { return d.name + "\n" + format(d.value); });
+
+    node.append("text")
+        .attr("x", -6)
+        .attr("y", function(d) { return d.dy / 2; })
+        .attr("dy", ".35em")
+        .attr("text-anchor", "end")
+        .attr("transform", null)
+        .text(function(d) { return d.name; })
+        .filter(function(d) { return d.x < width / 2; })
+        .attr("x", 6 + sankey.nodeWidth())
+        .attr("text-anchor", "start");
+
+    function dragmove(d) {
+      d3.select(this).attr("transform", "translate(" + d.x + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+      sankey.relayout();
+      link.attr("d", path);
+      }
+  });
+  </script>
+	</body>
+</html>
